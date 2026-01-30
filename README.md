@@ -1,37 +1,50 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/sohinicode/sohinicode/main/Green%20Aesthetic%20Wallpaper%20Laptop%20Gif.gif" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey%20👋%20I'm%20Sohini&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+</div>
+
+<div align="center">
 <img src="[https://www.google.com/search?q=https://capsule-render.vercel.app/letter-update%3Ftype%3Dwaving%26color%3Dgradient%26height%3D180%26section%3Dheader%26text%3D](https://share.google/vXxnb2398IQdknlmN)Hey%2520👋%20I'm%20Sohini&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
 <br />
 
-<table border="0">
-<tr>
-<td width="60%" valign="top">
+<table style="border:none;border-collapse:collapse;" cellspacing="0" cellpadding="0">
+<tr style="border:none;">
+
+<!-- LEFT CONTENT -->
+<td width="60%" valign="top" style="border:none;padding:0 20px 0 0;">
 <h3>I'm a final-year engineering student from India who enjoys building things with code and learning by doing.</h3>
+
 <p align="left">
-✨ Vibe coder with a builder mindset 
-
-
-
-
-📚 Currently learning ECE concepts and full-stack web development 
-
-
-
-
-🎯 Goals: Keep learning, building, and improving every day 
-
-
-
-
+✨ Vibe coder with a builder mindset<br><br>
+📚 Currently learning ECE concepts and full-stack web development<br><br>
+🎯 Goals: Keep learning, building, and improving every day<br><br>
 🎲 Fun fact: I believe consistency beats motivation — and I code something every day
 </p>
 </td>
-<td width="40%" align="center">
-<img src="https://www.google.com/search?q=https://cdni.iconscout.com/illustration/premium/thumb/female-web-developer-working-on-project-illustration-download-in-svg-png-gif-file-formats--programming-coding-development-pack-business-illustrations-4712396.png" width="250" />
+
+<!-- RIGHT IMAGE -->
+<td width="40%" align="center" style="border:none;">
+  <img 
+    src="https://github.com/sohinicode/sohinicode/blob/main/68747470733a2f2f7777772e69697365726b6f6c2e61632e696e2f7e6364732f6173736574732f696d6167652f696e74726f5f746f5f636f6d705f70726f6772616d6d696e672e6a7067.jpg?raw=true"
+    width="380"
+    style="border-radius:14px;"
+    alt="Coding illustration"
+  />
 </td>
+
 </tr>
 </table>
+
+
+
+
 
 <br />
 
@@ -80,4 +93,3 @@
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsohinicode%26show_icons%3Dtrue%26theme%3Dtokyonight%26count_private%3Dtrue" height="150" />
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsohinicode%26layout%3Dcompact%26theme%3Dtokyonight" height="150" />
 </div>
-add here 
