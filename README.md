@@ -1,16 +1,23 @@
+<!-- Top aesthetic GIF -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sohinicode/sohinicode/main/Green%20Aesthetic%20Wallpaper%20Laptop%20Gif.gif" width="100%" />
+  <img 
+    src="https://raw.githubusercontent.com/sohinicode/sohinicode/main/Green%20Aesthetic%20Wallpaper%20Laptop%20Gif.gif" 
+    width="100%" height ="100%"
+    style="max-height:220px; object-fit:cover;"
+    alt="Aesthetic coding banner"
+  />
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey%20👋%20I'm%20Sohini&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
-</div>
-
-<div align="center">
-<img src="[https://www.google.com/search?q=https://capsule-render.vercel.app/letter-update%3Ftype%3Dwaving%26color%3Dgradient%26height%3D180%26section%3Dheader%26text%3D](https://share.google/vXxnb2398IQdknlmN)Hey%2520👋%20I'm%20Sohini&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
-</div>
+<!-- Animated waving hand text -->
+<h1 align="center">
+  Hey 
+  <img 
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+    width="38" 
+    alt="Waving hand"
+  /> 
+  I'm Sohini
+</h1>
 
 <br />
 
@@ -19,6 +26,7 @@
 
 <!-- LEFT CONTENT -->
 <td width="60%" valign="top" style="border:none;padding:0 20px 0 0;">
+<h2>About Me</h2>
 <h3>I'm a final-year engineering student from India who enjoys building things with code and learning by doing.</h3>
 
 <p align="left">
