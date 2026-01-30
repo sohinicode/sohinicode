@@ -66,10 +66,10 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
 </div>
-<h2 align="left">🎮 Contribution Collector</h2>
+<h2 align="left">🎮 Are you getting bored?</h2>
 
 <p align="left">
-A GitHub-inspired mini game — collect commits 🟩, avoid bugs 🟥, and keep your streak alive.
+Play this - A GitHub-inspired mini game — collect commits 🟩, avoid bugs 🟥, and keep your streak alive.
 </p>
 
 <div align="center">
@@ -90,17 +90,23 @@ A GitHub-inspired mini game — collect commits 🟩, avoid bugs 🟥, and keep 
 
 <h2 align="left">Connect with me</h2>
 <div align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/sohini-mandal-622756368" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-</a>
-<a href="mailto:sohini03022022@gmail.com">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-</a>
-</div>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/sohini-mandal-622756368" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
+      width="52" 
+      height="40" 
+      alt="LinkedIn profile"
+    />
+  </a>
 
-<br />
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsohinicode%26show_icons%3Dtrue%26theme%3Dtokyonight%26count_private%3Dtrue" height="150" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsohinicode%26layout%3Dcompact%26theme%3Dtokyonight" height="150" />
+  <!-- Gmail -->
+  <a href="mailto:sohini03022022@gmail.com">
+    <img 
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
+      width="52" 
+      height="40" 
+      alt="Email Sohini"
+    />
+  </a>
 </div>
