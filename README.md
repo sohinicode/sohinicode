@@ -19,8 +19,6 @@
   I'm Sohini
 </h1>
 
-<br />
-
 <table style="border:none;border-collapse:collapse;" cellspacing="0" cellpadding="0">
 <tr style="border:none;">
 
@@ -50,12 +48,6 @@
 </tr>
 </table>
 
-
-
-
-
-<br />
-
 <h2 align="left">I code with</h2>
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -74,16 +66,27 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
 </div>
+<h2 align="left">🎮 Contribution Collector</h2>
 
-<br />
-
-<h2 align="left">Hello World!!</h2>
+<p align="left">
+A GitHub-inspired mini game — collect commits 🟩, avoid bugs 🟥, and keep your streak alive.
+</p>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg%3Fgithub%3Dsohinicode%26color_snake%3D%25234c1d95%26dot_color%3D%2523161b22%26bg_color%3D%25230d1117" alt="Snake animation" width="100%" />
+  <a href="https://sohinicode.github.io/github-contribution-collector/" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/sohinicode/github-contribution-collector/main/preview.gif"
+      width="85%"
+      alt="Contribution Collector Game Preview"
+    />
+  </a>
 </div>
 
-<br />
+<p align="center">
+  👉 <a href="https://sohinicode.github.io/github-contribution-collector/" target="_blank">
+    Play the game live
+  </a>
+</p>
 
 <h2 align="left">Connect with me</h2>
 <div align="center">
