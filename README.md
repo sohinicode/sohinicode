@@ -66,6 +66,37 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
 </div>
+<h2 align="left">📊 This week I spent my time on</h2>
+
+<div align="center" style="
+  background:#0d1117;
+  border:1px solid #30363d;
+  border-radius:16px;
+  padding:22px;
+  max-width:760px;
+  margin-bottom:28px;
+">
+
+<p align="left" style="
+  margin:0 0 12px 0;
+  color:#8b949e;
+  font-size:14px;
+">
+⌛ Automatically tracked coding activity (last 7 days)
+</p>
+
+<pre style="
+  color:#c9d1d9;
+  font-family:'Fira Code',monospace;
+  font-size:14px;
+  line-height:1.7;
+  white-space:pre-wrap;
+  margin:0;
+">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</pre>
+</div>
 <h2 align="left">🎮 Are you getting bored?</h2>
 
 <p align="left">
