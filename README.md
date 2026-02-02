@@ -8,24 +8,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  /></div>
 
-
-## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sohinicode&theme=dark&count_private=true&cache_seconds=1800)
-
-![](https://nirzak-streak-stats.vercel.app/?user=sohinicode&theme=dark&cache_seconds=1800)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohinicode&theme=dark&layout=compact&cache_seconds=1800)
-
 <h2 align="left">🎮 Are you getting bored?</h2> <p align="left"> Play this - A GitHub-inspired mini game — collect commits 🟩, avoid bugs 🟥, and keep your streak alive. </p> <div align="center"> <a href="https://sohinicode.github.io/github-contribution-collector/" target="_blank"> <img src="https://raw.githubusercontent.com/sohinicode/github-contribution-collector/main/preview.gif" width="85%" alt="Contribution Collector Game Preview" /> </a> </div> <p align="center"> 👉 <a href="https://sohinicode.github.io/github-contribution-collector/" target="_blank"> Play the game live </a> </p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sohinicode&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sohinicode&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sohinicode&icon=0&color=0)](https://visitcount.itsvg.in)
